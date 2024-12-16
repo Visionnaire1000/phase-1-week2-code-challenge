@@ -22,12 +22,12 @@ This project is a simple interactive shopping list application built with HTML, 
 
 ## Usage
 After opening the index.html file in a browser,or clicking on the GitHub Pages link:
-   -Click on the text input field and type the item you want to add to the shopping list.
-   -Click the add button to add the item and repeat the process for all the items you would like to include in the list.
-   -When necessary,click the delete button to remove a product from the list.
-   -When necessary,click the clear list button to remove all items from the list.
-   -When necessary,double-click an item to edit its text.
-   -After purchasing an item on the list,click it to mark it as purchased,that will be indicated by strikethrough text and a change in background color.
+   - Click on the text input field and type the item you want to add to the shopping list.
+   - Click the add button to add the item and repeat the process for all the items you would like to include in the list.
+   - When necessary,click the delete button to remove a product from the list.
+   - When necessary,click the clear list button to remove all items from the list.
+   - When necessary,double-click an item to edit its text.
+   - After purchasing an item on the list,click it to mark it as purchased,that will be indicated by strikethrough text and a change in background color.
   
    
   
